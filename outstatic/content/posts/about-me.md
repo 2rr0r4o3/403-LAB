@@ -2,11 +2,11 @@
 title: 'About me (Korean)'
 status: 'published'
 author:
-  name: 'Naval Ravikant'
-  picture: ''
-slug: 'the-wrong-decision'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-coverImage: '/images/skyline.png'
+  name: 'Error_403'
+  picture: '/images/img_0364-kyOD.jpg'
+slug: 'about-me'
+description: 'Introduce myself'
+coverImage: '/images/img_0364-UzNT.jpg'
 publishedAt: '2022-03-26T05:35:07.322Z'
 ---
 
