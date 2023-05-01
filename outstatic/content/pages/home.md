@@ -14,9 +14,7 @@ publishedAt: '2022-05-01T07:11:00.000Z'
 
 # I'm Changheon LEE.
 
-I believe in vulnerability research to be the first to stop<br>
-
-a threat humanity has never faced before, at the forefront of the world.
+I believe in vulnerability research to be the first to stop a threat humanity has never faced before, at the forefront of the world.
 
 I'm undergraduate student studying the Linux kernel and ecosystem composed of many software based on it, or analysis of vulnerabilities occurring in its individual elements.
 
