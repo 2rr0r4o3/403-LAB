@@ -7,7 +7,7 @@ author:
 slug: 'home'
 description: ''
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2022-05-01T07:11:00.000Z'
 ---
 
 ## Welcome.
@@ -21,6 +21,4 @@ a threat humanity has never faced before, at the forefront of the world.
 I'm undergraduate student studying the Linux kernel and ecosystem composed of many software based on it, or analysis of vulnerabilities occurring in its individual elements.
 
 > If you are interested in director here, please refer to [About Me].
-
-
 
